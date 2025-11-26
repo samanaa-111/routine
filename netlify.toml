@@ -4,4 +4,4 @@ publish = "dist" # Ensure this points to your build folder
  [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200
+  status =200
